@@ -9,7 +9,6 @@ djangorestframework-simplejwt==4.6.0
 httpie==2.4.0
 idna==2.10
 Markdown==3.3.3
-Pillow @ file:///E:/front/vue/drf/Pillow-8.2.0-cp38-cp38-win_amd64.whl
 Pygments==2.8.1
 PyJWT==2.0.1
 PySocks==1.7.1
