@@ -114,7 +114,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR, "fronted/dist/")]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, "frontend/dist/")]
 STATIC_ROOT = os.path.join(BASE_DIR, 'collected_static')
 
 # drf框架，分页默认实现
